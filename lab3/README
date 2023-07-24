@@ -1,0 +1,3 @@
+Data compression is the process of encoding information using fewer bits than the original representation. 
+Run-length encoding (RLE) is a simple yet effective compression algorithm: repeated data are stored as a single data and the count. 
+In this lab, you will build a parallel run-length encoder called Not Your Usual ENCoder, or nyuenc for short.
