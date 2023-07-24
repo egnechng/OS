@@ -1,0 +1,4 @@
+The shell is the main command-line interface between a user and the operating system, and it is an essential part of the daily lives of computer scientists, software engineers, system administrators, and such. 
+It makes heavy use of many OS features. 
+
+In this lab, you will build a simplified version of the Unix shell called the New Yet Usable SHell, or nyush for short.
